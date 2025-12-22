@@ -483,6 +483,47 @@ nav {
   border-radius: 8px;
   margin-bottom: 10px;
 }
+.project-card{
+    height:100%;
+    /* border:1px solid blue;
+    border-radius: 20px; */
+    padding:10px;
+    display: flex;
+    gap: 20px;
+}
+.project-img{
+    width:40%;
+    height:100%;
+    /* border:1px solid red; */
+}
+.project-desc{
+    width:60%;
+    height:100%;
+    /* border:1px solid green; */
+    
+}
+.proj1-img{
+    width: 625px;
+    height: 400px;
+}
+.project-title{
+    font-size :30px;
+    text-align: center;
+    color: green;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.project-matter{
+    font-size:20px;
+}
+.project-skills{
+    display: flex;
+    flex-direction: row;
+    width:10%;
+    height:100px;
+   gap:30px;
+   margin: 30px;;
+}
 
 .project-card h3 {
   color: #333;
@@ -711,3 +752,4 @@ footer {
   margin-top: 30px;
   font-size: 0.9rem;
 }
+
