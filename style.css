@@ -444,69 +444,7 @@ nav {
 }
 
 /* ===== Projects Section ===== */
-/* .projects {
-  max-width: 1100px;
-  margin: 50px auto;
-  text-align: center;
-  padding: 20px;
-}
 
-.projects h2 {
-  font-size: 2rem;
-  color: #f39c12;
-  margin-bottom: 30px;
-}
-
-.project-container {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap;
-}
-
-.project-card {
-  background: #fff;
-  width: 30%;
-  min-width: 250px;
-  padding: 15px;
-  border-radius: 8px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-  transition: transform 0.3s ease-in-out;
-}
-
-.project-card:hover {
-  transform: translateY(-8px);
-}
-
-.project-card img {
-  width: 100%;
-  border-radius: 8px;
-  margin-bottom: 10px;
-}
-
-.project-card h3 {
-  color: #333;
-  margin-bottom: 8px;
-}
-
-.project-card p {
-  color: #555;
-  font-size: 0.95rem;
-}
-img[alt="Fake News Detection"] {
-  width: 200px;
-  height: 210px;
-  object-fit: cover;
-  margin: 0 auto;
-  display: block;
-} */
-/* .large-img {
-  width: 350px; /* adjust as needed */
-  /* height: 200px; /* adjust as needed */
-  /* object-fit: cover;
-  margin: 0 auto; /* center the image in the card */
-  /* display: block; */ 
-/* }   */
 .projects-section{
     height:400px;
     margin:20px;
@@ -522,7 +460,7 @@ img[alt="Fake News Detection"] {
     gap: 20px;
 }
 .project-img{
-    width:40%;
+    width:30%;
     height:100%;
     /* border:1px solid red; */
 }
@@ -533,7 +471,7 @@ img[alt="Fake News Detection"] {
     
 }
 .proj1-img{
-    width: 625px;
+    width: 525px;
     height: 400px;
 }
 .project-title{
@@ -808,3 +746,4 @@ footer {
   margin-top: 30px;
   font-size: 0.9rem;
 }
+
