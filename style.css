@@ -507,7 +507,7 @@ img[alt="Fake News Detection"] {
   margin: 0 auto; /* center the image in the card */
    display: block; 
  }  
-/* .projects-section{
+ .projects-section{
     height:400px;
     margin:20px;
     /* border: 1px solid gray; */
@@ -605,7 +605,7 @@ img[alt="Fake News Detection"] {
      gap:30px;
    margin: 30px;;
 }
- */
+
 
 /* ===== Resume Section ===== */
 .resume-section {
@@ -808,4 +808,5 @@ footer {
   margin-top: 30px;
   font-size: 0.9rem;
 }
+
 
