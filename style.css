@@ -801,11 +801,10 @@ p a:hover {
 
 /* ===== Footer ===== */
 footer {
-  background: #222;
-  color: #fff;
+  background: #c5c3c3;
+  color:black;
   text-align: center;
   padding: 15px;
   margin-top: 30px;
   font-size: 0.9rem;
 }
-
