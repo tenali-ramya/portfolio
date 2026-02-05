@@ -737,9 +737,11 @@ footer {
   margin-top: 30px;
   font-size: 0.9rem;
 }
-.reverse {
+.railway {
+  display: flex !important;
   flex-direction: row-reverse !important;
 }
+
 
 
 
