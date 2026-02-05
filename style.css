@@ -730,17 +730,23 @@ p a:hover {
 
 /* ===== Footer ===== */
 footer {
+  width: 100%;
   background: #c5c3c3;
-  color:black;
+  color: black;
   text-align: center;
-  padding: 15px;
-  margin-top: 30px;
-  font-size: 0.9rem;
+  padding: 20px 0;
+  margin: 0;
 }
+
+footer p {
+  margin: 0;
+}
+
 .railway {
   display: flex !important;
   flex-direction: row-reverse !important;
 }
+
 
 
 
