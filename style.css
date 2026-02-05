@@ -737,6 +737,11 @@ footer {
   margin-top: 30px;
   font-size: 0.9rem;
 }
+.reverse {
+  flex-direction: row-reverse !important;
+}
+
+
 
 
 
