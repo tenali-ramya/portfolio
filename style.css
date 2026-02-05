@@ -505,7 +505,7 @@ nav {
 
 .project-skills img {
   width: 60px;
-  height: auto;
+  height: 60px;
 }
 
 .project-skills {
@@ -737,6 +737,7 @@ footer {
   margin-top: 30px;
   font-size: 0.9rem;
 }
+
 
 
 
