@@ -730,10 +730,7 @@ p a:hover {
 
 /* ===== Footer ===== */
 .site-footer {
-  position: relative;
-  left: 0;
-  right: 0;
-  width: 100vw !important;
+  width: 100vw;
   margin-left: calc(-50vw + 50%);
   background: #c5c3c3;
   color: black;
@@ -746,10 +743,12 @@ p a:hover {
 }
 
 
+
 .railway {
   display: flex !important;
   flex-direction: row-reverse !important;
 }
+
 
 
 
