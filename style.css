@@ -8,9 +8,14 @@
 body {
   font-family: 'Poppins', Arial, sans-serif;
   line-height: 1.6;
-  background: #e6f2ff; /* New background color */
+  background: #e6f2ff;
   color: #333;
+
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
+
 
 
 a {
@@ -737,8 +742,8 @@ p a:hover {
   padding: 20px 0;
 }
 
-.site-footer p {
-  margin: 0;
+.site-footer {
+  margin-top: auto;
 }
 
 
@@ -748,6 +753,7 @@ p a:hover {
   display: flex !important;
   flex-direction: row-reverse !important;
 }
+
 
 
 
